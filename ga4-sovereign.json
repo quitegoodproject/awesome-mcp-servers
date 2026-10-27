@@ -1,0 +1,26 @@
+{
+  "projectId": "awesome-mcp-servers",
+  "projectSlug": "awesome-mcp-servers",
+  "domain": null,
+  "displayName": "awesome-mcp-servers",
+  "clusterId": "sovereign_internal_engines",
+  "measurementId": "G-T67PR79EHE",
+  "constellationMeasurementId": "G-T67PR79EHE",
+  "masterMeasurementId": "G-B43WTZ2712",
+  "propertyScope": "INTERNAL_NO_WEBSITE",
+  "timeZone": "Europe/London",
+  "currencyCode": "GBP",
+  "commercialHooks": [
+    "ai_referral_visit",
+    "postcode_area_extractor",
+    "calculator_interaction",
+    "call_click",
+    "affiliate_click",
+    "navre_cross_click",
+    "generate_lead",
+    "begin_checkout",
+    "purchase",
+    "cross_domain_linker"
+  ],
+  "injectedAt": "2026-10-27T16:17:48.610Z"
+}
